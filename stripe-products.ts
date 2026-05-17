@@ -1,14 +1,14 @@
 export const STRIPE_PRODUCTS = {
   pro_monthly: {
-    name: 'LinkedAI Pro Monthly',
-    price: 1900,
+    name: 'Aurora Rayes LinkedIn Agent Pro Monthly',
+    price: 700,
     currency: 'usd',
     interval: 'month',
     features: ['Profile scoring', 'Headline generator', 'Connection templates', 'Content calendar', 'Engagement analytics'],
   },
   pro_yearly: {
-    name: 'LinkedAI Pro Yearly',
-    price: 15900,
+    name: 'Aurora Rayes LinkedIn Agent Pro Yearly',
+    price: 5900,
     currency: 'usd',
     interval: 'year',
     features: ['Profile scoring', 'Headline generator', 'Connection templates', 'Content calendar', 'Engagement analytics'],

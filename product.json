@@ -1,14 +1,22 @@
 {
   "id": "app220-linkedin-ai",
-  "name": "App220 Linkedin AI",
-  "tagline": "AI-powered hr solution",
-  "description": "AI-powered app220-linkedin-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
-  "category": "hr",
-  "tags": ["ai", "hr"],
-  "url": "https://auroramarket.org/app220-linkedin-ai",
-  "demo": "https://21leahcimhtiek-oss.github.io/app220-linkedin-ai",
-  "repo": "https://github.com/21leahcimhtiek-oss/app220-linkedin-ai",
-  "stack": ["TypeScript", "Next.js", "React"],
+  "name": "Aurora Rayes LinkedIn Agent",
+  "tagline": "AI LinkedIn profile and outreach optimizer",
+  "description": "Aurora Rayes LinkedIn Agent is an Aurora Rayes ecosystem product for founders, job seekers, consultants, creators, and sales teams.",
+  "category": "linkedin",
+  "tags": [
+    "aurora-rayes",
+    "ai",
+    "linkedin"
+  ],
+  "url": "https://aurora-linkedinai.example",
+  "demo": "https://aurora-linkedinai.example/demo",
+  "repo": "https://github.com/21leahcimhtiek-oss/aurora-linkedinai",
+  "stack": [
+    "TypeScript",
+    "Next.js",
+    "React"
+  ],
   "status": "mvp",
   "version": "1.0.0",
   "author": "Aurora Rayes LLC",
